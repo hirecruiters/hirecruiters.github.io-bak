@@ -1,0 +1,94 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Why this page?\n\n\nTo streamline the recruiting process, avoiding unnecesary delays and maximizing (or trying to) its efficiency.\n\n\nTips\n\n\n\n\nDescribe your company\n\n\nIt would be great if the offer included a company overview, with links to the company's website, linkedin profile or the like. If it'd also link to the careers/job section, it'd be great.\n\n\nThis tries to get rid of the \" I'm recruiting on behalf of an important  who have various different positions in the UK\" or \"I'm recruiting for a position with an established and successful software firm\" kind of messages. \nThe contacted person is gonna ask anyway.\n\n\nDescribe the job\n\n\nIt would be great if the position description included detailed (as much as possible) information about the responsabilities, skills and requirements of the job. Too many buzzwords or the search for ninjas/rockstar is too much. Take a look at the info (most) companies include at StackOverflow jobs (I'm not affiliated in any manner to StackOverflow or any of its subsidiaries, just think they encourage companies to post morre relevant info).\n\n\nIt helps candidates consider whether they would be really interested or not. \nThe contacted person is gonna ask anyway.\n\n\nSalary\n\n\nThe job offer should include salary, or at least a \nreasonable\n salary range (not something like \"between 30k and 60k\"). Interesting \nlink from a Forbes contributor\n\n\nThe \"we pay as little as possible\" philosophy, or the concealment of that information is inefficient. \nThe contacted person is gonna ask anyway.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#why-this-page", 
+            "text": "To streamline the recruiting process, avoiding unnecesary delays and maximizing (or trying to) its efficiency.", 
+            "title": "Why this page?"
+        }, 
+        {
+            "location": "/#tips", 
+            "text": "", 
+            "title": "Tips"
+        }, 
+        {
+            "location": "/#describe-your-company", 
+            "text": "It would be great if the offer included a company overview, with links to the company's website, linkedin profile or the like. If it'd also link to the careers/job section, it'd be great.", 
+            "title": "Describe your company"
+        }, 
+        {
+            "location": "/#this-tries-to-get-rid-of-the-im-recruiting-on-behalf-of-an-important-who-have-various-different-positions-in-the-uk-or-im-recruiting-for-a-position-with-an-established-and-successful-software-firm-kind-of-messages-the-contacted-person-is-gonna-ask-anyway", 
+            "text": "", 
+            "title": "This tries to get rid of the \" I'm recruiting on behalf of an important  who have various different positions in the UK\" or \"I'm recruiting for a position with an established and successful software firm\" kind of messages. The contacted person is gonna ask anyway."
+        }, 
+        {
+            "location": "/#describe-the-job", 
+            "text": "It would be great if the position description included detailed (as much as possible) information about the responsabilities, skills and requirements of the job. Too many buzzwords or the search for ninjas/rockstar is too much. Take a look at the info (most) companies include at StackOverflow jobs (I'm not affiliated in any manner to StackOverflow or any of its subsidiaries, just think they encourage companies to post morre relevant info).", 
+            "title": "Describe the job"
+        }, 
+        {
+            "location": "/#it-helps-candidates-consider-whether-they-would-be-really-interested-or-not-the-contacted-person-is-gonna-ask-anyway", 
+            "text": "", 
+            "title": "It helps candidates consider whether they would be really interested or not. The contacted person is gonna ask anyway."
+        }, 
+        {
+            "location": "/#salary", 
+            "text": "The job offer should include salary, or at least a  reasonable  salary range (not something like \"between 30k and 60k\"). Interesting  link from a Forbes contributor", 
+            "title": "Salary"
+        }, 
+        {
+            "location": "/#the-we-pay-as-little-as-possible-philosophy-or-the-concealment-of-that-information-is-inefficient-the-contacted-person-is-gonna-ask-anyway", 
+            "text": "", 
+            "title": "The \"we pay as little as possible\" philosophy, or the concealment of that information is inefficient. The contacted person is gonna ask anyway."
+        }, 
+        {
+            "location": "/index_es/", 
+            "text": "\u00bfPor qu\u00e9 esta p\u00e1gina?\n\n\nHe creado esta p\u00e1gina, inspirado en reglas de meetups y otras gu\u00edas, para intentar mejorar la comunicaci\u00f3n entre recruiters y posibles candidatos. Tanto los recruiters como los candidatos est\u00e1n interesados en perder el menor tiempo posible con ofertas mal descritas, ambiguas. Hay asuntos que \nse van a preguntar\n de todas maneras, \u00bfpor qu\u00e9 no dejar claras las intenciones desde el primer momento?\n\n\nConsejos\n\n\n\n\nDescripci\u00f3n de la empresa\n\n\nLa oferta debe incluir la descripci\u00f3n de la empresa, con enlaces reales a la misma. Idealmente, a su web corporativa, perfil en Linkedin o similar. Si se incluye enlace a la secci\u00f3n de \"empleos\" de la web, perfecto.\n\n\nCon esta medida se quiere evitar el efecto \"empresa multinacional l\u00edder en el sector y en plena expansi\u00f3n busca personas para...\". Seas una startup, una PYME, una consultora o una multinacional, dinos qui\u00e9n eres.\n\n\nDescripci\u00f3n del puesto trabajo\n\n\nLa oferta debe incluir descripci\u00f3n precisa del puesto de trabajo, con las responsabilidades a adquirir y el perfil concreto deseado, no un listado de \"buzzwords\" sacadas de Linkedin. Si buscas ninjas/rockstars expertos en PHP, Python, Ruby, Java, C#, Angular, NodeJS, Bash, Photoshop, Illustrator, CSS, iOS, Android, BigData, AWS, Azure y configuraci\u00f3n de redes... no nos interesa.\n\n\nCon esta medida se quiere evitar charcuteras que recluten ingenieros al peso para venderlos a terceros como \"expertos en...\".\n\n\nSueldo\n\n\nLa oferta debe incluir sueldo, o al menos rango salarial (con sentido, nada de \"entre 20K y 60K\").\n\n\nCon esta medida se quiere evitar el efecto \"sueldo seg\u00fan val\u00eda\", propio de empresas que entienden el mercado laboral como un regateo de mercadillo. Si sabes lo que buscas, y cu\u00e1nto dinero puedes emplear en contratar a una persona para ese puesto, puedes publicar perfectamente el rango que ofreces.", 
+            "title": "Index es"
+        }, 
+        {
+            "location": "/index_es/#por-que-esta-pagina", 
+            "text": "He creado esta p\u00e1gina, inspirado en reglas de meetups y otras gu\u00edas, para intentar mejorar la comunicaci\u00f3n entre recruiters y posibles candidatos. Tanto los recruiters como los candidatos est\u00e1n interesados en perder el menor tiempo posible con ofertas mal descritas, ambiguas. Hay asuntos que  se van a preguntar  de todas maneras, \u00bfpor qu\u00e9 no dejar claras las intenciones desde el primer momento?", 
+            "title": "\u00bfPor qu\u00e9 esta p\u00e1gina?"
+        }, 
+        {
+            "location": "/index_es/#consejos", 
+            "text": "", 
+            "title": "Consejos"
+        }, 
+        {
+            "location": "/index_es/#descripcion-de-la-empresa", 
+            "text": "La oferta debe incluir la descripci\u00f3n de la empresa, con enlaces reales a la misma. Idealmente, a su web corporativa, perfil en Linkedin o similar. Si se incluye enlace a la secci\u00f3n de \"empleos\" de la web, perfecto.", 
+            "title": "Descripci\u00f3n de la empresa"
+        }, 
+        {
+            "location": "/index_es/#con-esta-medida-se-quiere-evitar-el-efecto-empresa-multinacional-lider-en-el-sector-y-en-plena-expansion-busca-personas-para-seas-una-startup-una-pyme-una-consultora-o-una-multinacional-dinos-quien-eres", 
+            "text": "", 
+            "title": "Con esta medida se quiere evitar el efecto \"empresa multinacional l\u00edder en el sector y en plena expansi\u00f3n busca personas para...\". Seas una startup, una PYME, una consultora o una multinacional, dinos qui\u00e9n eres."
+        }, 
+        {
+            "location": "/index_es/#descripcion-del-puesto-trabajo", 
+            "text": "La oferta debe incluir descripci\u00f3n precisa del puesto de trabajo, con las responsabilidades a adquirir y el perfil concreto deseado, no un listado de \"buzzwords\" sacadas de Linkedin. Si buscas ninjas/rockstars expertos en PHP, Python, Ruby, Java, C#, Angular, NodeJS, Bash, Photoshop, Illustrator, CSS, iOS, Android, BigData, AWS, Azure y configuraci\u00f3n de redes... no nos interesa.", 
+            "title": "Descripci\u00f3n del puesto trabajo"
+        }, 
+        {
+            "location": "/index_es/#con-esta-medida-se-quiere-evitar-charcuteras-que-recluten-ingenieros-al-peso-para-venderlos-a-terceros-como-expertos-en", 
+            "text": "", 
+            "title": "Con esta medida se quiere evitar charcuteras que recluten ingenieros al peso para venderlos a terceros como \"expertos en...\"."
+        }, 
+        {
+            "location": "/index_es/#sueldo", 
+            "text": "La oferta debe incluir sueldo, o al menos rango salarial (con sentido, nada de \"entre 20K y 60K\").", 
+            "title": "Sueldo"
+        }, 
+        {
+            "location": "/index_es/#con-esta-medida-se-quiere-evitar-el-efecto-sueldo-segun-valia-propio-de-empresas-que-entienden-el-mercado-laboral-como-un-regateo-de-mercadillo-si-sabes-lo-que-buscas-y-cuanto-dinero-puedes-emplear-en-contratar-a-una-persona-para-ese-puesto-puedes-publicar-perfectamente-el-rango-que-ofreces", 
+            "text": "", 
+            "title": "Con esta medida se quiere evitar el efecto \"sueldo seg\u00fan val\u00eda\", propio de empresas que entienden el mercado laboral como un regateo de mercadillo. Si sabes lo que buscas, y cu\u00e1nto dinero puedes emplear en contratar a una persona para ese puesto, puedes publicar perfectamente el rango que ofreces."
+        }
+    ]
+}
